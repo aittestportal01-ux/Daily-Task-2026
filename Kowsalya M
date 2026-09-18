@@ -1047,6 +1047,6 @@ Date : 16 -09 -2026
 Date : 17 -09 -2026
 1.React Session 
 2.Frontend Session
-3.Learn MYSQL commands of Insert
-4.Learn about  8 different types of Indexing Concept  and practised 4 indexing concepts in Mongodb
-5.Learn about 19 built-in function of List from Python
+3.Learn MYSQL commands of select , update , delete queries
+4.Learn about query optimization and Atomic Updates in Mongodb
+5.Learn about 19 built-in function of set , tuple , dictionary from Python
